@@ -13,4 +13,4 @@ Each twitch user that has typed in chat is given a score based on the messages t
 Getting Started:
 1. Create key file for openai
 2. Create key file for twitch to hold your token
-   
+3. Pip install requirements (requirements.txt will be added soon) 
